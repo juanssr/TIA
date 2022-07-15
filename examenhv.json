@@ -1,4 +1,4 @@
-[
+{
 	"alumnos":[
 	   {
 		  "alumno":"Sebastian",
@@ -51,4 +51,4 @@
 		  "ranking":10
 	   }
 	]
-]
+}
