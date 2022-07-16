@@ -7,47 +7,47 @@
 	   },
 	   {
 		  "alumno":"Moscardo",
-		  "nota":8.5,
+		  "nota":9.2,
 		  "ranking":2
 	   },
 	   {
 		  "alumno":"Cervelion",
-		  "nota":7.5,
+		  "nota":9.1,
 		  "ranking":3
 	   },
 	   {
 		  "alumno":"Nory",
-		  "nota":6.5,
+		  "nota":8.8,
 		  "ranking":4
 	   },
 	   {
 		  "alumno":"Masato",
-		  "nota":5.5,
+		  "nota":8.2,
 		  "ranking":5
 	   },
 	   {
 		  "alumno":"Toy",
-		  "nota":4.5,
+		  "nota":8.1,
 		  "ranking":6
 	   },
 	   {
 		  "alumno":"Yosi",
-		  "nota":3.5,
+		  "nota":6.5,
 		  "ranking":7
 	   },
 	   {
 		  "alumno":"Kevo",
-		  "nota":2.5,
+		  "nota":6.2,
 		  "ranking":8
 	   },
 	   {
 		  "alumno":"Juanchis",
-		  "nota":1.5,
+		  "nota":2.5,
 		  "ranking":9
 	   },
 	   {
 		  "alumno":"Fico",
-		  "nota":0.5,
+		  "nota":2.0,
 		  "ranking":10
 	   }
 	]
