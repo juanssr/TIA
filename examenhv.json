@@ -2,52 +2,52 @@
 	"alumnos":[
 	   {
 		  "alumno":"Sebastian",
-		  "nota":10.0,
+		  "nota":9.5,
 		  "ranking":1
 	   },
 	   {
 		  "alumno":"Moscardo",
-		  "nota":9.0,
+		  "nota":8.5,
 		  "ranking":2
 	   },
 	   {
 		  "alumno":"Cervelion",
-		  "nota":8.0,
+		  "nota":7.5,
 		  "ranking":3
 	   },
 	   {
 		  "alumno":"Nory",
-		  "nota":7.0,
+		  "nota":6.5,
 		  "ranking":4
 	   },
 	   {
 		  "alumno":"Masato",
-		  "nota":6.0,
+		  "nota":5.5,
 		  "ranking":5
 	   },
 	   {
 		  "alumno":"Toy",
-		  "nota":5.0,
+		  "nota":4.5,
 		  "ranking":6
 	   },
 	   {
 		  "alumno":"Yosi",
-		  "nota":4.0,
+		  "nota":3.5,
 		  "ranking":7
 	   },
 	   {
 		  "alumno":"Kevo",
-		  "nota":3.0,
+		  "nota":2.5,
 		  "ranking":8
 	   },
 	   {
 		  "alumno":"Juanchis",
-		  "nota":2.0,
+		  "nota":1.5,
 		  "ranking":9
 	   },
 	   {
 		  "alumno":"Fico",
-		  "nota":1.0,
+		  "nota":0.5,
 		  "ranking":10
 	   }
 	]
