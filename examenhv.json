@@ -11,32 +11,32 @@
 		  "ranking":2
 	   },
 	   {
-		  "alumno":"Cervelion",
+		  "alumno":"Cerveliono",
 		  "nota":9.1,
 		  "ranking":3
 	   },
 	   {
-		  "alumno":"Nory",
+		  "alumno":"Aquivaldo",
 		  "nota":8.8,
 		  "ranking":4
 	   },
 	   {
-		  "alumno":"Masato",
+		  "alumno":"Eusebio",
 		  "nota":8.2,
 		  "ranking":5
 	   },
 	   {
-		  "alumno":"Toy",
+		  "alumno":"Ausberto",
 		  "nota":8.1,
 		  "ranking":6
 	   },
 	   {
-		  "alumno":"Yosi",
+		  "alumno":"Egidio",
 		  "nota":6.5,
 		  "ranking":7
 	   },
 	   {
-		  "alumno":"Kevo",
+		  "alumno":"Gervasio",
 		  "nota":6.2,
 		  "ranking":8
 	   },
@@ -46,7 +46,7 @@
 		  "ranking":9
 	   },
 	   {
-		  "alumno":"Fico",
+		  "alumno":"Rodolfo",
 		  "nota":2.0,
 		  "ranking":10
 	   }
